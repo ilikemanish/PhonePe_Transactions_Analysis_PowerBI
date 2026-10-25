@@ -15,9 +15,9 @@
 
 <br>
 
-[![Live Dashboard](https://img.shields.io/badge/🚀_LIVE_DASHBOARD-5F259F?style=for-the-badge)](https://ilikemanish.github.io/PhonePe_Transactions_Analysis_PowerBI/))
+[![Live Dashboard](https://img.shields.io/badge/🚀_LIVE_DASHBOARD-5F259F?style=for-the-badge)](https://ilikemanish.github.io/PhonePe_Transactions_Analysis_PowerBI/)
 
-[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+[![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ilikemanish/PhonePe_Transactions_Analysis_PowerBI)
 
 [![Download Report](https://img.shields.io/badge/📄_PROJECT_REPORT-7B2CBF?style=for-the-badge)](reports/PhonePe_Transactions_Analysis_Report.pdf)
 
@@ -50,7 +50,7 @@ Additionally, a premium **HTML, CSS, and JavaScript dashboard** provides an attr
 
 <div align="center">
 
-<img src="images/dashboard.png" width="100%" alt="PhonePe Transactions Power BI Dashboard">
+<img src="images/DASHBOARDpng" width="100%" alt="PhonePe Transactions Power BI Dashboard">
 
 <br><br>
 
@@ -397,7 +397,7 @@ The project also includes a responsive web dashboard developed using **HTML, CSS
 
 ### 🚀 Launch the Interactive Dashboard
 
-[![Open Live Dashboard](https://img.shields.io/badge/🚀_OPEN_LIVE_DASHBOARD-5F259F?style=for-the-badge)](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/)
+[![Open Live Dashboard](https://img.shields.io/badge/🚀_OPEN_LIVE_DASHBOARD-5F259F?style=for-the-badge)](https://github.com/ilikemanish/PhonePe_Transactions_Analysis_PowerBI)
 
 </div>
 
@@ -493,7 +493,7 @@ Python • SQL • Excel • Power BI • Tableau
 
 *Turning complex datasets into clear, meaningful business insights.*
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ilikemanish)
 
 </div>
 
