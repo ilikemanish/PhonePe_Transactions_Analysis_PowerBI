@@ -50,7 +50,7 @@ Additionally, a premium **HTML, CSS, and JavaScript dashboard** provides an attr
 
 <div align="center">
 
-<img src="images/DASHBOARDpng" width="100%" alt="PhonePe Transactions Power BI Dashboard">
+<img src="DASHBOARD.png" width="100%" alt="PhonePe Transactions Power BI Dashboard">
 
 <br><br>
 
