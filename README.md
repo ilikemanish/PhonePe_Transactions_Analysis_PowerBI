@@ -15,7 +15,7 @@
 
 <br>
 
-[![Live Dashboard](https://img.shields.io/badge/🚀_LIVE_DASHBOARD-5F259F?style=for-the-badge)]([https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/](https://ilikemanish.github.io/PhonePe_Transactions_Analysis_PowerBI/))
+[![Live Dashboard](https://img.shields.io/badge/🚀_LIVE_DASHBOARD-5F259F?style=for-the-badge)](https://ilikemanish.github.io/PhonePe_Transactions_Analysis_PowerBI/))
 
 [![Source Code](https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
 
